@@ -1,0 +1,4 @@
+SQL is a software based on query language which is used to communicate RDBMS(Relational Database Management System).
+So here are some querries to solve:
+1) Write a query empployee name, salary and 10% increment on monthly salary.
+2) write the query to display all the details of employee if salary is greater than 2000.
